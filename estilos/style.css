@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/* Paleta
+verde: #49a09d
+lilás: #5f2c82
+*/
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to top, #49a09d, #5f2c82);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+main {
+    
+    
+}
+
+div#formulario {
+    height: 50vh;
+    width: 40vw;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+
+}
+
+img {
+    display: inline-block;
+    height: 30vh;
+    width: 25vw;
+    margin-top: auto;
+    margin-left: auto;
+}
