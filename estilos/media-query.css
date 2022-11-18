@@ -13,6 +13,7 @@ pc = 992 -- 1200
 
     section#login {
         width: 80vw;
+        height: 280px;
     }
 
     #login > #foto {
@@ -35,12 +36,14 @@ pc = 992 -- 1200
 
     #login {
         width: 950px;
+        height: 350px;
     }
 
     #login > #foto {
         float: right;
         width: 50%;
         height: 100%;
+        background-position: center center;
     }
 
     #login > #formulario {
@@ -54,5 +57,6 @@ pc = 992 -- 1200
 
     #formulario > p {
         font-size: 1.2em;
+        margin: 10px 0px;
     }
 }
